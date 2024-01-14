@@ -1,0 +1,17 @@
+h3{
+font-size:300px;
+text-decoration:underline;
+font-weight:bold;
+}
+.blog{
+    margin:40px;
+    border:20px;
+    box-shadow:10px 10px 10px;
+    font-family:Arial;
+}
+.player{
+    height:1000px;
+    background-color:rgba(255,255,255);
+    background-image:url('william-warby-7DtAC8ak-Qw-unsplash.jpg');
+    display:block;
+}    
